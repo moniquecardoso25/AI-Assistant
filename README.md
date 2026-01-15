@@ -66,3 +66,5 @@ The .env file is intentionally ignored by Git to avoid leaking secrets.
 ```bash
 streamlit run app.py
 ```
+
+
