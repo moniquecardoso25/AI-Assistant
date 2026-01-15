@@ -11,7 +11,7 @@ This project is an AI assistant developed with **LangChain** and **Streamlit**, 
 
 ## Technologies Used
 
-- **Python**
+- Python
 - **LangChain**
 - **LangChain Community** (NASA toolkit)
 - **LangChain OpenAI**
