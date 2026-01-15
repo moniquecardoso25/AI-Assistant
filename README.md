@@ -26,8 +26,7 @@ AI_Assistant/                         # GitHub repository root
 ├── requirements.txt                  # Project dependencies
 ├── .env.example                      # Example environment variables (no secrets)
 └── README.md                         # Project documentation
-
-
+```
 
 ## 🚀 How to Run
 
