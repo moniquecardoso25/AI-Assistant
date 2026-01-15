@@ -27,6 +27,8 @@ AI_Assistant/                         # GitHub repository root
 ├── .env.example                      # Example environment variables (no secrets)
 └── README.md                         # Project documentation
 
+
+
 ## 🚀 How to Run
 
 1. Install the dependencies:
