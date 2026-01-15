@@ -54,7 +54,7 @@ pip install -r requirements.txt
 ```
 
 **3. Environment configuration**
-- Create a .env file in the project root with the following variables:
+Create a .env file in the project root with the following variables:
 ```bash
 OPENAI_API_KEY=your_openai_api_key
 NASA_API_KEY=DEMO_KEY
